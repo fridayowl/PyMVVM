@@ -48,16 +48,3 @@ view.update()  # Output: User: John (30)
 model.name = "Jane"
 view.update()  # Output: User: Jane (30)
 
-
-## Releasing
-
-This project uses GitHub Actions to automatically publish new releases to PyPI. To create a new release:
-
-1. Update the version number in `setup.py`.
-2. Commit your changes and push to GitHub.
-3. On GitHub, go to the repository's "Releases" page.
-4. Click "Draft a new release".
-5. Create a new tag (e.g., v0.1.0), give your release a title, and add release notes.
-6. Click "Publish release".
-
-The GitHub Actions workflow will automatically build and publish the new version to PyPI.

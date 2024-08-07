@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="PyMVVM",
+    name="pymvvm_design",
     version="0.2.0",
     author="shinoj cm",
     author_email="shinojcm01@gmail.com",
