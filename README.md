@@ -12,7 +12,7 @@ PyMVVM is a Python package that simplifies the implementation of the Model-View-
 - Asynchronous command support
 - State management in ViewModels
 - Dependency injection for data services
-- Factory function for quick MVVM setup
+- Factory function for quick MVVM setup .
 
 ## Installation
 
