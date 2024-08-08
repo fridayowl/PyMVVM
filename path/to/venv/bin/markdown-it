@@ -1,4 +1,4 @@
-#!/Users/shinojcm/myproject/PyMVVM/path/to/venv/bin/python3.12
+#!/Users/shinojcm/myproject/PyMVVM-1/path/to/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys

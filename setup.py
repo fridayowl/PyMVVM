@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pymvvm_design",
-    version="0.6.0",
+    version="0.7.0",
     author="shinoj cm",
     author_email="shinojcm01@gmail.com",
     description="A simplified MVVM framework for Python",
