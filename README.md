@@ -1,5 +1,6 @@
 # PyMVVM
 # Simplified MVVM for Python
+[![Downloads](https://static.pepy.tech/badge/pymvvm-design/month)](https://pepy.tech/project/pymvvm-design)
 
 PyMVVM is a Python package that simplifies the implementation of the Model-View-ViewModel (MVVM) pattern. It provides a set of base classes and utilities to create robust, maintainable, and testable applications.
 
